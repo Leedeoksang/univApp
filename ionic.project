@@ -1,0 +1,8 @@
+{
+  "name": "univApp",
+  "app_id": "5f2a6498",
+  "gulpStartupTasks": [
+  	"sass",
+  	"watch"
+  ]
+}
